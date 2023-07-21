@@ -1,0 +1,169 @@
+id,name,host_id,host_name,neighbourhood_group,neighbourhood,latitude,longitude,room_type,price,minimum_nights,number_of_reviews,last_review,reviews_per_month,calculated_host_listings_count,availability_365,number_of_reviews_ltm,license
+2818,Condo in Amsterdam · ★4.89 · 1 bedroom · 2 beds · 1.5 shared baths,3159,Daniel,,Oostelijk Havengebied - Indische Buurt,52.36435,4.94358,Private room,69,3,336,5/31/2023,1.95,1,7,40,
+20168,Townhouse in Amsterdam · ★4.44 · 1 bedroom · 1 bed · 1 private bath,59484,Alexander,,Centrum-Oost,52.36407,4.89393,Private room,106,1,339,4/9/2020,2.1,2,0,0,
+213371,Rental unit in Amsterdam · ★4.86 · 3 bedrooms · 4 beds · 1.5 baths,1100324,Hendrik,,De Pijp - Rivierenbuurt,52.3515,4.89656,Entire home/apt,270,4,23,1/8/2023,0.16,1,2,1,0363 F88F 4B47 6E9B 225B
+155548,Rental unit in Amsterdam · ★4.76 · 1 bedroom · 1 bed · 1.5 baths,748161,Maria,,Oud-Oost,52.3642,4.92829,Entire home/apt,200,3,21,8/20/2019,0.15,1,0,0,0363 A562 4D7E 4A91 60DF
+27886,Houseboat in Amsterdam · ★4.94 · 1 bedroom · 1 bed · 1.5 baths,97647,Flip,,Centrum-West,52.38761,4.89188,Private room,137,3,251,5/1/2023,1.81,1,0,20,
+162467,Rental unit in Amsterdam · ★4.77 · 1 bedroom · 1 bed · 1 bath,776296,Nicole,,De Baarsjes - Oud-West,52.3627,4.85693,Entire home/apt,170,3,67,5/26/2023,0.53,1,157,5,0363 C6C3 A2DC 89AC B72B
+214531,Rental unit in Amsterdam · ★4.82 · 1 bedroom · 2 beds · 1 private bath,1107389,Henry,,Centrum-West,52.37169,4.89446,Private room,115,3,175,6/26/2022,1.24,1,0,2,0363 1939 7BED DDCD 0353
+28871,Rental unit in Amsterdam · ★4.87 · 1 bedroom · 1 bed · 1 shared bath,124245,Edwin,,Centrum-West,52.36775,4.89092,Private room,79,2,510,6/3/2023,3.27,2,97,107,
+219276,Guest suite in Amsterdam · ★4.88 · 1 bedroom · 1 bed · 1 private bath,1135329,Amsterdam Boutique Apartments,,Centrum-West,52.36883,4.88749,Private room,300,2,17,10/23/2022,0.13,1,126,4,0363 1179 146A FBDB 79FC
+168769,Boutique hotel in Amsterdam · ★4.59 · 1 bedroom · 1 bed · 1.5 baths,436145,Riks,,Centrum-West,52.37956,4.89359,Private room,126,3,280,12/29/2022,1.97,4,0,12,0363 4108 6EC3 C2FF 2493
+171054,Rental unit in Amsterdam · ★4.75 · 2 bedrooms · 3 beds · 1 bath,815989,Kamiel,,De Baarsjes - Oud-West,52.36768,4.86646,Entire home/apt,120,3,103,11/28/2018,0.71,1,0,0,0363 BDF7 C0EC 9B88 DECA
+29051,Rental unit in Amsterdam · ★4.80 · 1 bedroom · 1 bed · 1 shared bath,124245,Edwin,,Centrum-Oost,52.36584,4.89111,Private room,59,2,649,6/2/2023,4.36,2,115,93,
+222516,Rental unit in Amsterdam · ★4.71 · 1 bedroom · 1 bed · 1.5 baths,1155595,Alex,,De Baarsjes - Oud-West,52.36271,4.85875,Entire home/apt,145,3,140,4/30/2023,0.99,1,2,3,0363 6ADC 900E 6878 AC7C
+44391,Rental unit in Amsterdam · ★4.72 · 2 bedrooms · 2 beds · 1.5 baths,194779,Jan,,Centrum-Oost,52.37168,4.91471,Entire home/apt,240,3,44,8/20/2022,0.28,1,0,2,0363 E76E F06A C1DD 172C
+245927,Guest suite in Amsterdam · ★4.84 · 2 bedrooms · 3 beds · 1.5 baths,1005087,Wytse,,Centrum-West,52.36815,4.88604,Entire home/apt,675,2,182,5/19/2023,1.35,1,271,35,0363 E3FA A6F6 2112 7636
+179528,Rental unit in Amsterdam · ★4.55 · 2 bedrooms · 2 beds · 1.5 baths,856540,Pierre,,De Pijp - Rivierenbuurt,52.34332,4.89484,Entire home/apt,480,14,32,10/14/2022,0.22,2,281,3,0363 1C26 67B4 C610 1758
+49552,Guest suite in Amsterdam · ★4.92 · 2 bedrooms · 2 beds · 1 bath,225987,Joanna & MP,,Centrum-West,52.38028,4.89089,Entire home/apt,271,3,480,6/5/2023,3.13,1,185,62,0363 576A D827 5085 6B83
+188347,Rental unit in Amsterdam · ★4.66 · 1 bedroom · 1 bed · 1 shared bath,907405,Yahav,,De Baarsjes - Oud-West,52.3683,4.85446,Private room,120,1,393,6/2/2023,2.74,2,39,22,
+247805,Rental unit in Amsterdam · ★4.87 · 1 bedroom · 1 bed · 1.5 baths,1298735,Carolien,,De Baarsjes - Oud-West,52.36707,4.87348,Private room,132,2,417,6/2/2023,2.96,1,145,56,0363 157A 14AF 5451 77C3
+50263,Condo in Amsterdam · ★4.87 · 2 bedrooms · 3 beds · 1.5 baths,230246,Donald,,Centrum-Oost,52.37118,4.93146,Entire home/apt,395,2,169,5/20/2023,1.1,1,160,6,0363 7F3D 0BAE 28C8 C7D2
+252080,Home in Amsterdam · ★4.93 · 4 bedrooms · 4 beds · 3.5 baths,1322517,Evan,,Centrum-Oost,52.36936,4.90963,Entire home/apt,385,4,16,4/29/2023,0.12,1,8,5,0363 4B98 6C27 7CA6 62B9
+254800,Rental unit in Amsterdam · ★4.94 · 1 bedroom · 1 bed · 1.5 baths,1337537,Diederik,,Centrum-West,52.37122,4.88211,Entire home/apt,296,2,63,10/14/2022,0.51,1,0,5,0363 7E3F 1742 B05C 9E62
+189754,Loft in Amsterdam · ★4.79 · 1 bedroom · 3 beds · 1 bath,915591,Marijn,,Centrum-West,52.37548,4.89398,Entire home/apt,240,2,309,6/2/2023,2.17,1,91,74,0363 08BD B22D FCC2 5F83
+50523,Bed and breakfast in Amsterdam · ★4.88 · 1 bedroom · 1 bed · 1 private bath,231946,Raymond,,Centrum-West,52.36811,4.88262,Private room,136,2,402,5/17/2023,2.66,1,214,75,
+190943,Rental unit in Amsterdam · ★4.42 · 2 bedrooms · 2 beds · 1 bath,922787,Nanna,,Zuid,52.35222,4.84789,Entire home/apt,250,9,12,5/1/2023,0.09,1,25,2,0363 4A1B 33D4 F6C1 F255
+255809,Loft in Amsterdam · ★4.87 · 2 bedrooms · 2 beds · 1 private bath,1344947,Flo&André,,De Pijp - Rivierenbuurt,52.34416,4.88709,Private room,195,2,162,4/26/2023,1.2,1,223,42,0363 A842 020A 9193 B416
+55709,Loft in Amsterdam · ★4.95 · 1 bedroom · 1 bed · 1.5 baths,263233,Jan-Willem,,Centrum-Oost,52.358112,4.897637,Entire home/apt,150,21,66,3/19/2023,0.43,1,0,3,0363 E295 7D15 8420 343E
+256670,Condo in Amsterdam · ★4.57 · 3 bedrooms · 6 beds · 3.5 baths,1350388,Stefan En Annemiek,,De Baarsjes - Oud-West,52.35861,4.86023,Entire home/apt,420,5,7,8/6/2019,0.06,1,21,0,0363 C0B2 9294 5CCE 6AF3
+212050,Rental unit in Amsterdam · ★4.78 · 2 bedrooms · 2 beds · 1.5 baths,887591,Danielle,,De Baarsjes - Oud-West,52.36698,4.86622,Entire home/apt,246,3,20,8/11/2020,0.14,1,2,0,0363 9A8D FAD3 3822 96CB
+446999,Bed and breakfast in Amsterdam · ★4.75 · 1 bedroom · 1 bed · 1 private bath,2064560,Har,,De Baarsjes - Oud-West,52.35927,4.86529,Private room,119,3,350,12/13/2022,2.7,2,0,22,
+55868,Rental unit in Amsterdam · ★4.86 · 2 bedrooms · 2 beds · 1.5 baths,264178,Cornelie,,Zuid,52.35597,4.88512,Entire home/apt,149,3,95,1/3/2020,0.63,1,74,0,0363 B5A3 5F63 B032 A320
+262394,Rental unit in Amsterdam · ★4.83 · 1 bedroom · 1 bed · 1 private bath,1376607,Martin,,Zuid,52.35695,4.85234,Private room,88,3,113,10/7/2019,0.83,1,0,0,
+62015,Rental unit in Amsterdam · ★4.91 · 1 bedroom · 1 bed · 1.5 baths,301340,Jessica,,Oud-Oost,52.36431,4.93122,Entire home/apt,120,2,36,11/14/2021,0.24,1,0,0,0363 B090 499C D757 7F4F
+274688,Condo in Amsterdam · ★4.85 · 1 bedroom · 1 bed · 1 bath,1435990,Marij,,Bos en Lommer,52.37977,4.85574,Entire home/apt,146,4,49,6/3/2023,0.35,1,0,6,0363 04FA C38F 7362 8C6D
+450767,Boat in Amsterdam · ★4.72 · 2 bedrooms · 3 beds · 1 bath,2238440,Richard En Birgit,,Centrum-Oost,52.37006,4.90081,Entire home/apt,275,3,179,5/22/2023,1.38,2,185,73,0363 DB37 0A9B 68B2 4474
+80635,Home in Amsterdam · ★4.77 · 1 bedroom · 1 bed · 1.5 baths,436145,Riks,,Centrum-West,52.37828,4.8944,Private room,116,3,241,12/31/2022,1.62,4,0,13,0363 4108 6EC3 C2FF 2493
+462341,Home in Amsterdam · ★4.97 · 3 bedrooms · 2 beds · 1.5 baths,2297302,Milen & Joes,,Centrum-West,52.3739,4.89263,Entire home/apt,238,6,39,5/2/2023,0.4,1,1,3,0363 C83F 9271 BA8F 23ED
+82482,Guesthouse in Amsterdam · ★4.51 · Studio · 2 beds · 1 bath,186729,Shawna,,Centrum-West,52.36968,4.88122,Entire home/apt,139,2,1005,5/29/2023,6.9,1,214,81,0363 4ADE 41D8 0E67 1563
+283170,Rental unit in Amsterdam · ★4.52 · 5 bedrooms · 8 beds · 1.5 baths,1451657,Marco,,Zuid,52.35435,4.87316,Entire home/apt,1036,2,121,5/7/2023,0.89,1,258,7,0363 0240 34A0 48C3 6D81
+286500,Rental unit in Amsterdam · ★4.90 · 1 bedroom · 1 bed · 1 private bath,1491565,David,,Centrum-West,52.37561,4.9,Private room,633,3,356,4/29/2023,2.58,2,162,37,
+91535,Boat in Amsterdam · ★4.74 · 1 bedroom · 1 bed · 1.5 baths,494281,Michiel,,De Pijp - Rivierenbuurt,52.35774,4.89647,Private room,149,1,140,5/28/2023,0.97,1,14,71,0363 74BA 2074 E0CF 1CB8
+290701,Home in Amsterdam · ★4.86 · 1 bedroom · 1 bed · 1 private bath,1491565,David,,Centrum-West,52.37561,4.9,Private room,238,3,415,5/29/2023,3.02,2,197,41,0363 DF01 FBC0 496B 9730
+483779,Rental unit in Amsterdam · ★4.88 · 2 bedrooms · 1 bed · 1 private bath,2395278,Alex,,Slotervaart,52.3509,4.83293,Private room,100,2,37,10/22/2017,0.46,1,0,0,
+494433,Rental unit in Amsterdam · ★4.81 · 2 bedrooms · 2 beds · 1 bath,907405,Yahav,,De Baarsjes - Oud-West,52.36812,4.85422,Entire home/apt,260,30,37,4/21/2023,0.28,2,130,13,0363 7C68 38F7 176D 8CDF
+97221,Bed and breakfast in Amsterdam · ★4.62 · 1 bedroom · 2 beds · 1 shared bath,195859,Gianni,,Slotervaart,52.34801,4.83639,Private room,80,2,283,5/21/2023,1.95,2,261,55,
+503629,Rental unit in Amsterdam · ★4.82 · 3 bedrooms · 3 beds · 1 bath,2483843,Alban,,Zuid,52.3543,4.87701,Entire home/apt,120,5,11,7/28/2019,0.09,1,0,0,0363 E959 5BC3 BBA6 1C6E
+291752,Rental unit in Amsterdam · ★4.87 · 1 bedroom · 1 bed · 1 bath,1511330,Ton,,Oud-Oost,52.35179,4.91082,Private room,126,3,242,5/29/2023,1.74,1,230,33,
+137026,Townhouse in Amsterdam · ★4.76 · 4 bedrooms · 4 beds · 2.5 baths,670266,Ton & Fede,,De Pijp - Rivierenbuurt,52.35178,4.90699,Entire home/apt,265,2,104,5/6/2023,0.75,1,110,5,0363 67D6 8568 BA8A F738
+505012,Rental unit in Amsterdam · ★4.74 · 3 bedrooms · 5 beds · 1 bath,1645998,Djoke,,Centrum-Oost,52.36412,4.88757,Entire home/apt,475,2,63,5/10/2023,0.49,1,6,3,0363 5F8A A57B 18E0 63BB
+759299,Rental unit in Amsterdam · ★4.80 · 3 bedrooms · 5 beds · 1 bath,3548522,Susanne,,De Baarsjes - Oud-West,52.36115,4.85209,Entire home/apt,225,2,10,6/27/2022,0.09,3,38,1,0363 8350 2AA2 28A1 C258
+515088,Condo in Amsterdam · 1 bedroom · 2 beds · 1.5 baths,2536879,Hansje,,Noord-Oost,52.39675,4.99603,Entire home/apt,180,2,2,3/10/2019,0.03,1,246,0,0363 0A94 AAA2 B228 0695
+304082,Bed and breakfast in Amsterdam · ★4.77 · 1 bedroom · 1 bed · 1.5 baths,276068,Mirre,,Centrum-West,52.37239,4.89657,Private room,159,3,248,5/17/2023,1.82,1,250,72,
+304143,Boat in Amsterdam · ★4.55 · 1 bedroom · 1 bed · 1 bath,1565319,Dick,,Oud-Oost,52.3623,4.92028,Entire home/apt,88,28,52,3/7/2020,0.38,1,0,0,0363AF9644094CEBCE6B
+761411,Condo in Amsterdam · ★4.75 · 1 bedroom · 1 bed · 1 shared bath,4013546,Xsjong,,Noord-Oost,52.40164,4.95106,Private room,62,3,290,5/30/2023,2.25,2,268,22,
+306852,Rental unit in Amsterdam · ★4.63 · 2 bedrooms · 2 beds · 1.5 baths,1141485,Gisèle And Simon,,Centrum-Oost,52.35931,4.89844,Entire home/apt,200,4,32,4/1/2023,0.25,3,0,1,0363 33C3 B936 3911 FC42
+515749,Boat in Amsterdam · ★4.87 · 1 bedroom · 1 bed · 1 bath,2540480,Derk,,Centrum-Oost,52.35902,4.89606,Private room,205,3,234,5/29/2023,1.76,1,277,38,
+768274,Rental unit in Amsterdam · ★4.83 · 1 bedroom · 1 bed · 2 baths,3678216,J & R,,Westerpark,52.38855,4.88521,Entire home/apt,327,3,77,6/1/2023,0.65,1,155,7,0363 7A50 18E7 51D1 B7F9
+768737,Boat in Amsterdam · ★4.81 · 1 bedroom · 1 bed · 1.5 baths,3877342,Nicole,,Westerpark,52.37824,4.86826,Private room,109,2,336,6/4/2023,2.75,3,11,55,
+515921,Rental unit in Amsterdam · ★4.30 · 2 bedrooms · 1 bed · 1.5 baths,2541099,Anne-Marie,,Zuid,52.35022,4.8525,Entire home/apt,175,2,91,5/29/2023,0.68,1,30,12,0363 676E D52D A47D 768A
+517996,Rental unit in Amsterdam · ★4.88 · 1 bedroom · 1 bed · 1 bath,2550339,Aemilia,,Centrum-West,52.37827,4.88568,Entire home/apt,500,3,27,5/5/2023,0.21,1,330,4,0363 7EFC D96F 5878 3F49
+307497,Boat in Amsterdam · ★4.86 · 10 bedrooms · 26 beds · 2.5 baths,176944339,Dion,,Westerpark,52.39185,4.8869,Entire home/apt,1239,2,107,5/28/2023,0.82,2,220,6,Exempt
+307621,Rental unit in Amsterdam · ★4.83 · 1 bedroom · 1 bed · 1 bath,1141485,Gisèle And Simon,,Centrum-Oost,52.35871,4.89616,Entire home/apt,155,3,6,3/27/2023,0.05,3,0,4,0363 33C3 B936 3911 FC42
+771217,Houseboat in Amsterdam · ★5.0 · 3 bedrooms · 3 beds · 2.5 baths,4068486,Danielle,,Zuid,52.34091,4.84802,Entire home/apt,290,3,10,1/2/2019,0.11,1,0,0,0363 D807 AD6C 499A F871
+308028,Rental unit in Amsterdam · ★4.75 · 1 bedroom · 1 bed · Private half-bath,1141485,Gisèle And Simon,,Centrum-Oost,52.35972,4.8975,Private room,100,3,36,2/28/2023,0.32,3,0,1,
+522471,Rental unit in Amsterdam · ★4.96 · 3 bedrooms · 5 beds · 1.5 baths,2569931,Harriet,,Bos en Lommer,52.3774,4.851,Entire home/apt,190,8,26,1/6/2023,0.21,1,0,2,0363 1139 9247 9E72 640C
+771343,Rental unit in Amsterdam · ★4.89 · 1 bedroom · 1 bed · 1 private bath,2313061,Marcel,,Centrum-West,52.37641,4.88303,Private room,150,1,669,6/1/2023,6.52,2,143,106,
+528022,Boat in Amsterdam · ★4.85 · 1 bedroom · 1 bed · 1.5 baths,2594559,Els,,Westerpark,52.39114,4.88846,Private room,110,2,267,5/28/2023,3.29,1,228,40,
+538723,Condo in Amsterdam · ★4.84 · 2 bedrooms · 2 beds · 1.5 baths,356740,Dimphy,,Watergraafsmeer,52.354,4.93965,Entire home/apt,140,5,57,1/1/2020,0.43,1,0,0,0363 D990 F92F DECF 88D4
+311124,Rental unit in Amsterdam · ★4.76 · 1 bedroom · 1 bed · 1 bath,1600010,Anke & Robert,,Centrum-West,52.37104,4.87713,Entire home/apt,325,5,88,5/26/2023,0.65,1,351,3,0363 59D8 7D30 6CFA DC81
+771758,Bed and breakfast in Amsterdam · ★4.59 · 1 bedroom · 1 bed · 1 shared bath,195859,Gianni,,Slotervaart,52.34985,4.83578,Private room,75,2,258,5/13/2023,2.09,2,256,59,
+319985,Rental unit in De Pijp · ★4.75 · 1 bedroom · 2 beds · 1 bath,1640702,J,,De Pijp - Rivierenbuurt,52.35669,4.90187,Entire home/apt,336,1,516,5/26/2023,3.82,2,38,90,0363 7D88 E1E8 F521 9A10
+549310,Rental unit in Amsterdam · ★4.55 · 2 bedrooms · 4 beds · 1 bath,2699033,Barbara,,De Baarsjes - Oud-West,52.37126,4.86241,Entire home/apt,250,2,58,5/5/2023,0.6,1,0,8,0363 35CD 76C9 04D4 1A21
+553514,Rental unit in Amsterdam · ★4.41 · Studio · 1 bed · 1.5 baths,618589,Mirjam,,Westerpark,52.38444,4.86916,Entire home/apt,80,2,162,2/16/2020,1.28,1,125,0,0363 AD82 ADCF 17F3 C3EA
+775655,Rental unit in Amsterdam · ★4.61 · 1 bedroom · 1 bed · 1 bath,4091515,Karin,,Centrum-Oost,52.37026,4.89931,Private room,163,2,451,6/3/2023,3.51,2,268,36,
+556829,Rental unit in Amsterdam · ★4.64 · 1 bedroom · 1 bed · 1 bath,2737834,Sophia,,Buitenveldert - Zuidas,52.33558,4.86878,Entire home/apt,139,3,27,8/29/2022,0.21,2,0,3,0363 957A 9061 D805 A3EC
+568446,Rental unit in Amsterdam · ★4.82 · 2 bedrooms · 2 beds · 1 bath,2797260,Noriko,,Centrum-Oost,52.37079,4.90153,Entire home/apt,150,3,109,8/4/2022,0.83,1,0,1,0363 2BD0 289D BF51 4A09
+327285,Home in Amsterdam · ★4.93 · 1 bedroom · 6 beds · 1.5 baths,1672823,Ester,,De Pijp - Rivierenbuurt,52.35625,4.89323,Private room,250,2,584,5/29/2023,4.27,2,1,44,0363 8A88 B129 62B5 BD4E
+778820,Rental unit in Amsterdam · 1 bedroom · 1 bed · 1 bath,4106698,Co,,De Baarsjes - Oud-West,52.35982,4.85635,Entire home/apt,110,3,2,4/6/2018,0.03,1,0,0,0363 FB65 8DE6 CA89 1A9B
+331946,Loft in Amsterdam · ★4.88 · 4 bedrooms · 5 beds · 2 baths,1687595,Sebastiaan,,De Baarsjes - Oud-West,52.3606,4.85739,Entire home/apt,220,3,27,7/21/2019,0.23,1,6,0,0363 A942 21DC C431 1AD1
+570753,Bed and breakfast in Amsterdam · ★4.87 · 1 bedroom · 2 beds · 1.5 shared baths,2439449,Henriette,,Zuid,52.34904,4.86765,Private room,90,4,380,2/4/2023,2.88,1,76,8,
+780674,Rental unit in Amsterdam · ★4.88 · 1 bedroom · 1 bed · 1 bath,4117326,Bas,,Centrum-Oost,52.36855,4.90766,Entire home/apt,149,2,34,9/24/2022,0.29,1,0,2,0363 145B 25EE AB16 EB91
+575603,Loft in Amsterdam · ★4.85 · 4 bedrooms · 4 beds · 2.5 baths,2830952,Henning,,Centrum-Oost,52.36112,4.89462,Entire home/apt,245,5,20,1/4/2023,0.19,2,0,3,0363 6703 A9A1 6C28 ECD5
+343094,Townhouse in Watergraafsmeer · ★4.89 · 1 bedroom · 1 bed · 1 private bath,1740785,Rob & Fang,,Oud-Oost,52.35715,4.90926,Private room,108,3,475,5/18/2023,3.52,1,131,55,
+782254,Rental unit in Amsterdam · ★4.66 · 2 bedrooms · 3 beds · 1 bath,4125951,Daniela,,Centrum-West,52.37142,4.89036,Entire home/apt,399,4,57,6/28/2022,0.45,1,11,1,0363 8627 FC55 F473 7A25
+357980,Townhouse in Amsterdam · ★4.86 · 4 bedrooms · 4 beds · 1.5 baths,1811745,Marre,,De Baarsjes - Oud-West,52.36348,4.87648,Entire home/apt,245,2,125,5/7/2023,0.92,1,5,23,0363 799F 0610 C059 F9F4
+366438,Condo in Amsterdam · ★4.74 · 1 bedroom · 1 bed · 1.5 baths,1849988,Nicolet,,Centrum-Oost,52.36737755,4.896707134,Private room,176,3,477,5/29/2023,3.51,1,99,43,0363 BD40 0F80 50E7 8478
+579851,Guest suite in Amsterdam · ★4.97 · 1 bedroom · 1 bed · 1 private bath,2851886,Sonja,,Westerpark,52.39144,4.88436,Private room,150,2,552,4/14/2023,4.25,1,28,44,0363 74BB 1569 D1B7 ADBE
+785432,Rental unit in Amsterdam · ★4.78 · 2 bedrooms · 3 beds · 1 bath,2586026,Nathalie,,Centrum-Oost,52.36856,4.89896,Entire home/apt,250,2,955,5/23/2023,7.49,1,40,102,0363 9012 937A BE0A DCB1
+582028,Rental unit in Amsterdam · ★4.75 · 1 bedroom · 1 bed · 1.5 baths,2865851,Oliver,,Slotervaart,52.36022,4.84346,Entire home/apt,145,7,12,3/18/2023,0.1,1,147,2,0363 6AE3 C6BD AA79 AB13
+582382,Townhouse in Amsterdam · ★4.78 · 2 bedrooms · 2 beds · 1.5 baths,2868026,Emer,,Oud-Noord,52.39442,4.91478,Entire home/apt,170,5,20,12/27/2019,0.15,1,0,0,0363 DAA7 B561 AC39 BB65
+367107,Condo in Amsterdam · ★5.0 · 1 bedroom · 1 bed · 1.5 baths,1853421,Marijn,,Centrum-Oost,52.36263,4.90216,Entire home/apt,337,5,17,4/18/2023,0.18,1,77,5,0363 1761 5C93 2C93 93FE
+367491,Rental unit in Amsterdam · ★4.91 · 1 bedroom · 1 bed · 1.5 baths,1855417,Maarten,,De Baarsjes - Oud-West,52.364,4.87814,Entire home/apt,209,3,80,5/15/2023,0.59,1,1,8,0363 7096 B559 45DB 421C
+794322,Boat in Amsterdam · ★4.76 · 1 bedroom · 1 bed · 1 private bath,4184910,Lydia,,Centrum-Oost,52.36863707,4.899095646,Private room,269,1,350,5/19/2023,2.79,1,255,21,0363 7FCD 7E75 8341 EB0E
+379143,Rental unit in Amsterdam · ★4.86 · 1 bedroom · 1 bed · 1 shared bath,1887873,Dom,,De Pijp - Rivierenbuurt,52.3548,4.90533,Private room,429,3,153,5/29/2023,2.04,1,89,2,
+588020,Rental unit in Amsterdam · ★4.54 · 3 bedrooms · 6 beds · 1 bath,1759884,Ivan,,Centrum-Oost,52.36918,4.91316,Entire home/apt,410,3,277,5/21/2023,2.74,3,220,69,Exempt
+800723,Rental unit in Amsterdam · ★4.83 · 2 bedrooms · 2 beds · 1 bath,4215174,Hinde,,De Baarsjes - Oud-West,52.36884,4.86127,Entire home/apt,150,4,18,2/18/2020,0.14,1,156,0,0363 6CD0 61EE A298 8E86
+590236,Rental unit in Amsterdam · ★4.87 · 1 bedroom · 1 bed · 1 bath,2912339,Kelli,,De Baarsjes - Oud-West,52.36809,4.85436,Entire home/apt,140,4,47,4/14/2023,0.36,1,239,5,0363 058A D932 3063 B1F7
+379885,Houseboat in Watergraafsmeer · ★4.70 · 1 bedroom · 1 bed · 1 private bath,1907015,Masha,,De Pijp - Rivierenbuurt,52.35465,4.9061,Private room,287,3,94,4/14/2023,0.7,1,138,10,
+801544,Rental unit in Amsterdam · ★4.57 · 2 bedrooms · 2 beds · 1 bath,1657181,Charlie,,De Pijp - Rivierenbuurt,52.35205,4.90267,Entire home/apt,175,3,97,10/17/2022,0.79,1,2,6,0363 B7E4 8394 0A13 58F5
+402353,Loft in Watergraafsmeer · ★4.85 · 1 bedroom · 1 bed · 1.5 baths,2008330,Lidy,,Watergraafsmeer,52.35338,4.93407,Private room,154,2,249,2/12/2023,1.88,1,156,20,0363 12D8 9BB2 949E 3227
+590386,Rental unit in Amsterdam · ★4.83 · 4 bedrooms · 4 beds · 1.5 baths,2913467,Ido,,Watergraafsmeer,52.35567,4.93175,Entire home/apt,200,7,7,7/29/2017,0.05,1,15,0,0363 A0F4 086A 0905 8765
+802052,Boat in Amsterdam · ★4.93 · 1 bedroom · 1 bed · 1 private bath,4221960,Peter,,Centrum-Oost,52.36476,4.90925,Private room,135,1,1134,6/1/2023,8.85,1,161,153,0363 787E FE88 DA65 E7FC
+414865,Rental unit in Amsterdam · ★4.89 · 1 bedroom · 1 bed · 1 bath,2063261,Miranda,,Zuid,52.35043,4.84676,Entire home/apt,110,4,9,1/4/2023,0.09,1,12,1,0363 DC39 26C1 3541 47BF
+805330,Rental unit in Amsterdam · ★4.94 · 2 bedrooms · 2 beds · 1.5 baths,4239235,Felice,,De Pijp - Rivierenbuurt,52.34725,4.89341,Entire home/apt,249,4,17,9/13/2022,0.14,1,0,2,0363 9611 7834 EC7F E5BB
+415619,Rental unit in Zeeburg · ★4.88 · 1 bedroom · 1 bed · 1 bath,1336633,Stephan,,Oostelijk Havengebied - Indische Buurt,52.36905,4.93528,Entire home/apt,145,2,81,5/28/2023,0.6,1,144,6,0363 09A6 8FFA 6EC4 805F
+590681,Rental unit in Amsterdam · ★4.95 · 4 bedrooms · 1 bed · 2 baths,2914846,Lotte,,Zuid,52.34788,4.8506,Entire home/apt,394,2,21,5/2/2023,0.16,1,57,7,0363 9A2B 5A8C 1B13 AF1B
+816048,Home in Amsterdam · ★4.67 · 2 bedrooms · 3 beds · 1.5 baths,4287096,Esther,,Centrum-Oost,52.35944,4.89299,Entire home/apt,495,4,7,8/11/2018,0.06,1,18,0,03632805EDDF7FA9A780
+606871,Boat in Amsterdam · ★4.75 · 1 bedroom · 1 bed · 1 private bath,3007402,Diewert,,Westerpark,52.37621,4.87075,Private room,148,1,432,6/3/2023,3.45,1,276,92,
+432233,Condo in Amsterdam · ★4.81 · 1 bedroom · 1 bed · 1 bath,2144360,Feiko,,Centrum-Oost,52.36096191,4.888226032,Entire home/apt,381,5,28,5/16/2023,0.21,1,0,4,0363 DA8F B298 31AF FE9B
+816940,Rental unit in Amsterdam · ★4.76 · 1 bedroom · 1 bed · 1.5 baths,4290554,Joyce,,Zuid,52.35323,4.85421,Entire home/apt,200,6,69,5/24/2023,0.56,1,150,8,03632A9BE56A736890D1
+438089,Bed and breakfast in Amsterdam · ★4.78 · 1 bedroom · 1 bed · 1 private bath,2064560,Har,,De Baarsjes - Oud-West,52.36116,4.86608,Private room,129,3,231,12/21/2022,1.77,2,2,16,
+440992,Boat in Amsterdam · ★4.88 · 2 bedrooms · 2 beds · 1 bath,2191136,Jan,,Zuid,52.341621,4.849049,Entire home/apt,200,3,126,5/31/2023,0.94,1,15,10,0363 6532 4C0A A235 9114
+608432,Bed and breakfast in Amsterdam · ★4.75 · Studio · 1 bed · 1 shared bath,3015785,Erik And Mary Jo,,Centrum-West,52.381996,4.888583,Private room,134,1,804,6/1/2023,6.11,2,30,99,
+818881,Rental unit in Amsterdam · ★4.78 · 1 bedroom · 1 bed · 1.5 baths,4297337,Liesbeth,,Centrum-Oost,52.36123,4.89619,Entire home/apt,127,6,18,4/12/2023,0.15,1,115,5,0363 C043 2638 E06E 6A9B
+834233,Rental unit in Amsterdam · ★4.89 · 1 bedroom · 2 beds · 1.5 baths,4364462,Margot,,Centrum-Oost,52.37272,4.90418,Entire home/apt,133,3,341,5/19/2023,2.69,1,77,29,0363 02A6 5C3D 72B4 EBA2
+613088,Farm stay in Amsterdam · ★4.86 · 1 bedroom · 1 bed · 1 private bath,3040748,Henk,,Noord-Oost,52.41016,4.96369,Private room,87,2,414,5/7/2023,3.15,9,151,23,
+441424,Home in Amsterdam · ★4.61 · 3 bedrooms · 3 beds · 2 baths,2193861,Marco,,Oostelijk Havengebied - Indische Buurt,52.37281,4.94303,Entire home/apt,175,3,39,8/20/2022,0.3,1,4,5,0363B9396B464F7B165A
+835627,Rental unit in Amsterdam · ★4.94 · 3 bedrooms · 3 beds · 2 baths,3054367,Dorine,,Centrum-Oost,52.36899,4.91607,Entire home/apt,400,3,20,5/11/2023,0.16,1,14,4,0363 7FFF 9AB4 C585 EADB
+445660,Guest suite in Amsterdam · ★4.79 · 2 bedrooms · 3 beds · 1 private bath,2202945,Heleen,,De Baarsjes - Oud-West,52.37001,4.85646,Private room,80,2,499,6/5/2023,3.7,1,164,71,0363 1D15 382F 70B9 6319
+954629,Home in Amsterdam-Zuidoost · ★4.59 · 1 bedroom · 1 bed · 1.5 baths,5183517,Simone,,Bijlmer-Centrum,52.32019,4.95501,Private room,72,3,63,5/26/2023,0.61,2,185,44,
+613110,Townhouse in Amsterdam · ★4.27 · 1 bedroom · 3 beds · 1.5 baths,3040855,Michael,,IJburg - Zeeburgereiland,52.36368,4.9794,Private room,112,1,291,4/16/2023,2.22,1,278,12,
+847093,Condo in Amsterdam · ★4.73 · 3 bedrooms · 3 beds · 1 bath,4663170,Brenda,,De Baarsjes - Oud-West,52.3607,4.85991,Entire home/apt,150,5,52,12/31/2022,0.42,1,5,5,0363 F80D 830C 99F0 23E3
+623123,Rental unit in Amsterdam · ★5.0 · 3 bedrooms · 2 beds · 3 baths,2695123,Janne,,De Baarsjes - Oud-West,52.36247,4.86534,Entire home/apt,450,4,26,5/3/2023,0.2,1,19,5,0363 C125 F449 C407 9F89
+627188,Bed and breakfast in Amsterdam · ★4.86 · Studio · 1 bed · 1 shared bath,3015785,Erik And Mary Jo,,Centrum-West,52.381996,4.888583,Private room,143,1,547,5/27/2023,4.15,2,32,91,
+954633,Home in Amsterdam-Zuidoost · ★4.85 · 1 bedroom · 2 beds · 1.5 baths,5183517,Simone,,Bijlmer-Centrum,52.32019,4.95501,Private room,78,3,150,6/1/2023,1.36,2,159,37,
+851044,Rental unit in Amsterdam · ★4.76 · 2 bedrooms · 2 beds · 1.5 baths,4443833,Nova Team,,Zuid,52.34025,4.8466,Entire home/apt,202,1,911,5/12/2023,7.18,2,145,111,0363 B559 3E8F 0F72 1573
+963328,Guest suite in Amsterdam · ★4.81 · 1 bedroom · 1 bed · 1 private bath,538659,Wendie,,Centrum-West,52.36561,4.88492,Private room,117,3,457,5/30/2023,3.72,1,67,55,
+627213,Houseboat in Amsterdam · ★5.0 · 3 bedrooms · 3 beds · 2.5 baths,3113556,Ingmar,,Zuid,52.35094,4.88552,Entire home/apt,100,7,14,6/21/2018,0.11,1,0,0,0363 DDEB 4C21 A90A B9DD
+633585,Rental unit in Amsterdam · ★4.82 · 1 bedroom · 1 bed · 1 bath,898904,Sietske,,De Pijp - Rivierenbuurt,52.34918,4.89197,Entire home/apt,125,4,92,2/28/2023,0.7,1,4,5,0363 7E98 4CFE 07C1 0AD3
+853645,Loft in Amsterdam · ★4.81 · 2 bedrooms · 2 beds · 1 bath,4398387,Joyce,,De Pijp - Rivierenbuurt,52.35327,4.88703,Entire home/apt,800,30,70,4/7/2018,0.55,1,0,0,0363 ADD7 618B A8B0 4965
+854328,Rental unit in Amsterdam · ★4.82 · 3 bedrooms · 3 beds · 2.5 baths,1347048,Family Of 5,,De Baarsjes - Oud-West,52.37262,4.87342,Entire home/apt,350,7,370,5/19/2023,2.98,2,30,26,0363 24EA E258 2D93 D630
+634170,Loft in Amsterdam · ★4.88 · Studio · 4 beds · 1 bath,3078488,Carolina,,Westerpark,52.38388,4.86562,Entire home/apt,109,91,148,6/30/2022,1.13,1,154,1,Exempt
+653459,Home in Amsterdam · ★4.94 · 4 bedrooms · 5 beds · 3.5 baths,1634910,Derk,,Buitenveldert - Zuidas,52.32237,4.86024,Entire home/apt,240,6,18,7/31/2022,0.25,1,0,2,0363 05B8 09C7 203A E42A
+964986,Rental unit in Amsterdam · ★5.0 · 2 bedrooms · 3 beds · 1.5 baths,2633774,Daniel,,De Pijp - Rivierenbuurt,52.35531,4.90333,Entire home/apt,355,5,32,9/10/2022,0.26,1,252,5,0363 7961 2CFF 0F2D 0125
+862411,Rental unit in Amsterdam · ★4.90 · 1 bedroom · 1 bed · 1 bath,4520552,Simone,,Centrum-West,52.38139,4.88541,Entire home/apt,180,93,83,5/12/2023,0.66,1,188,3,0363 2A3E E12A B662 839B
+969862,Rental unit in Amsterdam · ★4.72 · 1 bedroom · 2 beds · 1.5 baths,5297940,Helga,,Zuid,52.34176,4.84782,Private room,95,2,210,6/4/2023,1.76,1,233,36,
+654931,Bed and breakfast in Amsterdam · ★4.87 · 1 bedroom · 1 bed · 1 private bath,3278419,Matthijs,,Centrum-West,52.37167,4.8948,Hotel room,143,1,831,6/5/2023,6.36,2,122,103,0363 4587 2DC3 051C 3FCA
+865328,Rental unit in Amsterdam · ★4.95 · 1 bedroom · 3 beds · 1 private bath,4543444,Trinette,,Zuid,52.35584,4.87401,Private room,150,4,186,5/20/2023,2.1,1,221,53,
+655216,Bed and breakfast in Amsterdam · ★4.89 · 1 bedroom · 1 bed · 1 private bath,3278419,Matthijs,,Centrum-West,52.37098,4.89434,Hotel room,143,1,733,6/5/2023,5.64,2,124,98,0363 4587 2DC3 051C 3FCA
+974240,Place to stay in Amsterdam · ★4.97 · 1 bedroom · 1 bed · 1 private bath,4073717,Astrid,,Zuid,52.35049,4.84686,Private room,90,3,92,6/5/2023,1.5,2,2,41,0363 8515 2BFF 0068 0947
+874057,Condo in Amsterdam · ★4.63 · 1 bedroom · 1 bed · 1 bath,4592706,Joris,,De Baarsjes - Oud-West,52.3719,4.86534,Entire home/apt,225,4,36,8/9/2019,0.29,1,0,0,0363 D8C9 D5CC EB9D 3699
+978852,Bed and breakfast in Amsterdam · ★4.40 · 1 bedroom · 1 bed · 1 shared bath,3879155,Sjoukje,,De Baarsjes - Oud-West,52.37225,4.86262,Private room,31,28,261,5/29/2022,2.12,1,1,0,
+658063,Bed and breakfast in Amsterdam · ★4.36 · 1 bedroom · 3 beds · 1 bath,3317069,Marfi,,De Baarsjes - Oud-West,52.36188,4.87694,Private room,160,3,117,5/27/2022,0.92,1,46,0,
+660856,Townhouse in Amsterdam · ★4.82 · 4 bedrooms · 6 beds · 3 baths,3336575,Maaike,,Watergraafsmeer,52.3551,4.93262,Entire home/apt,275,28,40,7/24/2022,0.31,1,3,1,0363 528E 3889 FA20 43A1
+874076,Bed and breakfast in Amsterdam · ★4.99 · 1 bedroom · 1 bed · 1 private bath,4614541,Driss And Bettina,,Centrum-Oost,52.361362,4.890488,Private room,183,2,70,3/30/2023,0.84,2,216,18,
+664697,Loft in Amsterdam · ★4.33 · 1 bedroom · 1 bed · 1.5 baths,1406783,Alicia,,Oud-Noord,52.38537,4.90241,Entire home/apt,87,30,63,6/30/2018,0.48,2,267,0,Exempt
+874340,Bed and breakfast in Amsterdam · ★4.57 · 1 bedroom · 2 beds · 1.5 shared baths,4615590,Marta,,Noord-West,52.42379,4.88851,Private room,103,2,333,11/13/2022,2.71,3,93,3,
+667305,Rental unit in Amsterdam · ★4.97 · 1 bedroom · 1 bed · 1.5 baths,3375589,Fred Alexander,,Noord-West,52.41878,4.89397,Entire home/apt,146,5,31,5/27/2023,0.26,1,282,11,0363 1466 FFED D078 9856
+982907,Loft in Amsterdam · ★4.82 · 3 bedrooms · 2 beds · 2.5 baths,3971476,Sander,,Oostelijk Havengebied - Indische Buurt,52.37,4.95127,Entire home/apt,145,5,11,7/7/2022,0.1,1,3,2,0363 34EB 7F6B 4DCC 5DB3
+985155,Rental unit in Amsterdam · ★4.67 · 2 bedrooms · 2 beds · 1 bath,5247071,Linda,,Centrum-Oost,52.37042,4.91535,Entire home/apt,150,6,33,3/3/2022,0.3,1,0,0,0363 C54F 2BCC EC9F 89D7
+874688,Rental unit in Amsterdam · ★4.81 · 5 bedrooms · 5 beds · 2 baths,4585922,Alan,,Centrum-Oost,52.36276624,4.908097686,Entire home/apt,459,4,32,8/17/2022,0.27,1,168,4,0363 7FD9 A20B AF5B 0687
+989222,Rental unit in Amsterdam · ★4.73 · 1 bedroom · 1 bed · 1 bath,3205205,Chantal,,De Pijp - Rivierenbuurt,52.35082,4.8877,Entire home/apt,279,6,34,5/30/2023,0.28,2,0,1,0363 C630 0778 1E85 D138
+679838,Condo in Amsterdam · ★4.94 · 1 bedroom · 1 bed · 1.5 baths,22642887,Marianne,,Centrum-Oost,52.3678894,4.903494835,Entire home/apt,614,3,56,7/29/2022,0.52,1,59,4,0363 0B70 756D 626C F77C
+877702,Bed and breakfast in Amsterdam · ★4.98 · Studio · 1 bed · 1.5 baths,4614541,Driss And Bettina,,Centrum-Oost,52.36136246,4.890488148,Private room,238,2,64,5/9/2023,0.52,2,228,18,
+683431,Rental unit in Amsterdam · ★4.67 · 1 bedroom · 1 bed · 1 private bath,2309485,Ned,,De Pijp - Rivierenbuurt,52.34557,4.8962,Private room,95,1,600,6/4/2023,5.57,1,19,101,
+995087,Rental unit in Amsterdam · ★4.80 · 1 bedroom · 2 beds · 1.5 baths,4415881,Vera,,Westerpark,52.381615,4.877059,Private room,89,5,409,5/30/2023,3.53,1,11,39,
+879986,Rental unit in Amsterdam · ★4.71 · 1 bedroom · 1 bed · 1.5 baths,3332206,Stef,,De Pijp - Rivierenbuurt,52.3418,4.91066,Private room,109,5,568,6/1/2023,4.52,1,222,31,
+998822,Condo in Amsterdam · ★4.85 · 2 bedrooms · 4 beds · 1.5 baths,5489703,Edward,,Centrum-Oost,52.3643,4.89533,Entire home/apt,153,2,93,11/3/2019,0.85,1,0,0,0363 E7B9 D086 EF2D DB6B
+685990,Home in Amsterdam · ★4.81 · 1 bedroom · 2 beds · 1.5 shared baths,3498674,Nadia,,Geuzenveld - Slotermeer,52.38296,4.83786,Private room,84,4,355,6/3/2023,2.72,2,292,39,
+884329,Guest suite in Amsterdam · ★4.92 · 1 bedroom · 1 bed · 1 private bath,4684314,Frans,,De Aker - Nieuw Sloten,52.343079,4.788886,Private room,153,2,518,6/5/2023,4.12,1,205,49,
+689623,Rental unit in Amsterdam · ★4.74 · 1 bedroom · 1 bed · 1.5 baths,2272095,Katinka,,Centrum-Oost,52.3737,4.92581,Entire home/apt,120,14,88,8/15/2022,0.72,1,47,3,0363 4EFA 63D8 DADD 844A
+1005026,Rental unit in Amsterdam · ★5.0 · 1 bedroom · 1 bed · 1 bath,5527871,Kyra,,Westerpark,52.37367,4.87394,Entire home/apt,145,5,46,11/28/2021,0.37,1,52,0,0363 B722 0F9E DABD D7F5
+886192,Chalet in Amsterdam · ★4.66 · 2 bedrooms · 3 beds · 1 bath,4698057,Bjorn,,Noord-Oost,52.38462,5.01234,Entire home/apt,110,3,54,5/9/2023,0.49,1,120,12,Exempt
+1005695,Rental unit in Amsterdam · ★4.80 · 2 bedrooms · 1 bed · 1 shared bath,5530981,Freek,,Oud-Oost,52.35781,4.91027,Private room,129,3,47,8/29/2019,0.38,1,217,0,
+690757,Loft in Amsterdam · ★4.51 · 1 bedroom · 2 beds · 1.5 shared baths,3529778,Gijs,,Centrum-West,52.374,4.89902,Private room,189,2,534,5/25/2023,4.11,2,253,68,0363 92E1 9539 83BB 3AA7
+890288,Rental unit in Amsterdam · ★4.89 · 2 bedrooms · 2 beds · 2 baths,4724613,Cindy,,Zuid,52.35637,4.85373,Entire home/apt,445,3,48,5/15/2023,0.39,1,231,4,0363 BA28 A2B7 9DE1 64EC
+693675,Rental unit in Amsterdam · ★4.73 · 2 bedrooms · 2 beds · 1 bath,3548522,Susanne,,De Baarsjes - Oud-West,52.35925,4.8514,Entire home/apt,95,1,11,9/2/2018,0.1,3,0,0,0363 8350 2AA2 28A1 C258
+1008006,Boat in Amsterdam · ★4.75 · 1 bedroom · 1 bed · 1.5 baths,3523553,Doet,,Westerpark,52.37998,4.86959,Private room,141,3,147,5/22/2023,1.55,3,252,27,
